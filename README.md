@@ -1,2 +1,2 @@
-# Fresh
-Bits of this and that
+# Duel
+A game I wrote in Delphi Pascal
